@@ -52,9 +52,11 @@
 - [Telegram (Brazilian Portuguese speak community)](https://t.me/nestjsbr)
 - [Telegram (Russian speak community)](https://t.me/nest_ru)
 - [Telegram (Ukrainian speak community)](https://t.me/nest_ukraine)
+- [Telegram (Spanish speak community)](https://t.me/nestjs_es)
 - [Slack (Korean speak community)](https://nestjs.slack.com)
 - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
 - [Facebook (Polish speak community)](https://www.facebook.com/groups/606785643208589)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/nestjs) - Questions tagged with NestJS.
 
 #### Community-made documentations
 
@@ -187,6 +189,7 @@
 - [Manifest](https://manifest.build) - 1-file micro backend in YAML.
 - [IdeaForge](https://github.com/chenxiaoyao6228/idea-forge) - A powerful document collaboration platform that combines Notion-like functionality with AI capabilities. It offers a seamless environment for real-time collaborative editing, AI-powered writing assistance, and intuitive document management.
 - [Bunnychess](https://github.com/pietrobassi/bunnychess) - Open-source, scalable chess server built with NestJS microservices and NATS JetStream.
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem with NestJS backend - alternative to Postman.
 
 ## Components & Libraries
 
@@ -232,7 +235,8 @@
 
 #### Cache
 
-- [](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework
+- [`@nestjs/cache-manager`](https://github.com/nestjs/cache-manager) - Official caching module for NestJS with support for multiple stores (Redis, Memcached, etc.).
+- ![](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework.
 
 #### Redis
 
@@ -308,6 +312,7 @@
 
 #### Event
 
+- [`@nestjs/event-emitter`](https://github.com/nestjs/event-emitter) - Official event emitter module for NestJS based on eventemitter2.
 - ![](https://img.shields.io/github/stars/yak0/nest-event.svg?style=flat-square) [`nest-event`](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
 
 #### Auth
@@ -423,6 +428,7 @@
 
 #### Scheduling
 
+- [`@nestjs/schedule`](https://github.com/nestjs/schedule) - Official schedule module for NestJS providing cron jobs, timeouts, and intervals.
 - [`@nestjs/bull`](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
 
 #### Workflow Automation
