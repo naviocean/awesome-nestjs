@@ -139,6 +139,7 @@
 - [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functionnal programming with FP-TS.
 - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
 - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
+- [SaaS Starter](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, BullMQ, Docker, Terraform, and 55+ tests. Free lite version available.
 - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
 - [NestJS Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
 - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
