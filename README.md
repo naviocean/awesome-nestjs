@@ -110,7 +110,6 @@
 - [Domain Driven Design - Library](https://github.com/Sikora00/ddd-by-examples-library-nestjs) - Example of an application that follows Domain Driven Design.
 - [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM.
 - [Mant](https://github.com/vladotesanovic/mant) - New Stack on the Market to beat them all :ring: MANT.
-- [REST NestJS Postgres](https://github.com/crudjs/rest-nestjs-postgres) - CrudJS implemented as a REST API, using NestJS and Postgres.
 - [Nest Permissions Seed](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
 - [Angular NestJS Rendering](https://github.com/Innovic-io/angular-nestjs-rendering) - Angular 5+ server side rendering using NestJS.
 - [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular, NestJS, Mongoose, Passport, JWT.
@@ -275,6 +274,7 @@
 - ![](https://img.shields.io/github/stars/woowabros/nestjs-library-crud.svg?style=flat-square) [`@nestjs-library/crud`](https://github.com/woowabros/nestjs-library-crud) - Automatically generates CRUD routes of a controller for given TypeORM entity.
 - ![](https://img.shields.io/github/stars/rbonestell/nest-ndjson-req-stream.svg?style=flat-square) [`nest-ndjson-req-stream`](https://github.com/rbonestell/nest-ndjson-req-stream) - Accept and automatically deserialize NDJSON request streams in NestJS
 - ![](https://img.shields.io/github/stars/rodrigobnogueira/nest-trpc-native.svg?style=flat-square) [`nest-trpc-native`](https://github.com/rodrigobnogueira/nest-trpc-native) - Native, decorator-first tRPC integration for NestJS. Build typesafe APIs with full support for Nest dependency injection, guards, and interceptors.
+- ![](https://img.shields.io/github/stars/silkweave/silkweave.svg?style=flat-square) [`@silkweave/nestjs`](https://github.com/silkweave/silkweave/tree/master/packages/nestjs) - Expose existing controllers as Model Context Protocol (MCP) tools with a single `@Mcp()` decorator, reflecting tool schemas from route, param, and DTO metadata.
 
 #### Middleware
 
